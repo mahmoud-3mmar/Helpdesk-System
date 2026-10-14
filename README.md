@@ -1,8 +1,7 @@
 # Helpdesk System
 
 ## Project Name
-Helpdesk System
-
+Project Name: Helpdesk System
 ## Project Description
 The Helpdesk System is a software solution designed to manage and track support requests, technical issues, and service inquiries within an organization. It provides a centralized platform for users to report problems, support teams to resolve them, and managers to monitor performance and service quality.
 
